@@ -1,4 +1,4 @@
-name: Commands
+```name: Commands
 title: "&e&lChoco Commands"
 author: ChocoHills
 # Valid values: ORIGINAL, COPY_OF_ORIGINAL, COPY_OF_COPY, TATTERED
@@ -28,3 +28,4 @@ pages:
   - '<link:http://vote4.chocohills.com>vote link 4<reset>'
   - '<link:http://vote5.chocohills.com>vote link 5<reset>'
   - '<link:http://vote6.chocohills.com>vote link 6<reset>'
+```
