@@ -15,6 +15,8 @@ pages:
   - '<tooltip:Run "/back"><run command:/back>/back &4[Click me]<reset>'
   - '<tooltip:Run "/bal"><run command:/bal>/bal &4[Click me]<reset>'
   - '<tooltip:Run "/vote"><run command:/bal>/vote &4[Click me]<reset>'
+  - '<tooltip:Run "run afk"><click:run_command:"/afk">run afk &4[Click me]<reset>'
+  - '<tooltip:Run "page 3"><click:change_page:"3">votelinks &4[Click me]<reset>'
   '2':
   - 'How to earn money'
   - '  +500 per /vote'
