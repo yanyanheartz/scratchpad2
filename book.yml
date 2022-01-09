@@ -12,6 +12,7 @@ open_command: 'examplebook'
 pages:
   '1':
   - '<tooltip:Run "/wild"><run command:/wild>Click me /wild<reset>'
+  - '<click:change_page:page number>clickable text<reset>'
   '2':
   - '&cExample placeholders'
   - ''
